@@ -1,8 +1,9 @@
 <template>
+  <div>
     <OvaIntro />
-  </template>
-  
-  <script setup>
-  import OvaIntro from '~/components/OvaIntro.vue'
-  </script>
-  
+  </div>
+</template>
+
+<script setup>
+
+</script>
